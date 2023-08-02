@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Christa Oshodi!
-- 👀 I’m interested in front end web development. My preferred languages and libraries are JavaScript, Python, Bootstrap and Flask.
+- 👀 I am a fullstack software engineer. My preferred languages and libraries are JavaScript, React, Python, Bootstrap and Flask.
 - 📫 You can reach me at oshodich@gmail.com
 
 <!---
