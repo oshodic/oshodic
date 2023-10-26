@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Christa Oshodi!
-- 👀 I am a fullstack software engineer. My preferred languages and libraries are JavaScript, React, Python, Bootstrap and Flask.
+- 👀 I am a full stack software engineer. My preferred languages and libraries are JavaScript, React, Ruby on Rails and Typescript.
 - 📫 You can reach me at oshodich@gmail.com
 
 <!---
